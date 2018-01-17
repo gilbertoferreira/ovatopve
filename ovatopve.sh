@@ -1,5 +1,8 @@
 #!/bin/bash
-
+# Autor: Gilberto Ferreira
+# Data: 17/01/2018
+# Licença: GPL
+# Versão = 0.001
 clear
 echo "========================================================="
 echo "|							|"
